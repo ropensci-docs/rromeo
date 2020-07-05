@@ -1,0 +1,11 @@
+pandoc: '2.5'
+pkgdown: 1.6.1
+pkgdown_sha: ~
+articles:
+  rromeo: rromeo.html
+  setting_up_api_key: setting_up_api_key.html
+last_built: 2021-07-14T03:47Z
+urls:
+  reference: https://docs.ropensci.org/rromeo/reference
+  article: https://docs.ropensci.org/rromeo/articles
+

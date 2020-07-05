@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "a0694c9587a2868fb0e9ef2946b408f48d26879a",
+    "author": "runner <runner@Mac-1564.local>",
+    "time": "2020-07-05 19:57:11",
+    "files": 1,
+    "merge": false,
+    "message": "Re-build codemeta.json\n"
+  },
+  "remote": "https://github.com/ropensci/rromeo",
+  "pkg": "rromeo"
+}
